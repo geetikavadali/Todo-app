@@ -16,7 +16,7 @@ UPDATE 1:
 
 - Empty todos can't be created now.
 - Scrollbar for better readability and accessibility.
-- Input boxes clear after addind a todo.
+- Input boxes clear after adding a todo.
 
 I'll be adding more features and fixing the bugs every week.
 
